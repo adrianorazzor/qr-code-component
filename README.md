@@ -64,7 +64,7 @@ My focus now is to keep practicing the flebox, which is one thing I'm struggling
 ## Author
 
 - Website - [Adriano Pereira](https://github.com/adrianorazzor)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/adrianorazzor)
+- Frontend Mentor - [@adrianorazzor](https://www.frontendmentor.io/profile/adrianorazzor)
 
 ## Acknowledgments
 
@@ -73,5 +73,3 @@ I'm really grateful for all the people whose I'm learning from. Some resources t
 - https://www.youtube.com/kepowob
 - https://www.theodinproject.com/
 - https://www.frontendmentor.io/
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
